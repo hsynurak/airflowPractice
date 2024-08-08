@@ -1,6 +1,10 @@
+Airflow Practice
+========
+
+
 08.08.2024
 I am learning what is Airflow with Marc Lamberti's Udemy course. I will commit my finished parts as different repos.
-========
+
 ========
 
 * Projects include two main things. Taskes and functions for this taskes. 
